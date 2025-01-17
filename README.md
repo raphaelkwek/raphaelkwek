@@ -1,5 +1,6 @@
 ## Hi there 👋
 Connect with me on LinkedIn: https://www.linkedin.com/in/raphaelkwek/
+Track my LeetCode progress: https://leetcode.com/u/raphaelkwek/
 <!--
 **raphaelkwek/raphaelkwek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
